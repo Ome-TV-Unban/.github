@@ -27,7 +27,7 @@ For the best experience, connect to servers with low traffic to boost your chatt
 
 ## Why You MUST Use a VPN!
 
-When unbanning yourself from OmeTV, a VPN is your best tool. OmeTV bans users by tracking their IP address—your online "digital fingerprint." A VPN masks your real IP and provides a new one, tricking OmeTV into thinking you’re a different user.
+When [unbanning yourself from OmeTV](https://medium.com/@potiris81293ajz1/how-to-get-unbanned-from-ometv-unban-guide-47839a20aeef), a VPN is your best tool. OmeTV bans users by tracking their IP address—your online "digital fingerprint." A VPN masks your real IP and provides a new one, tricking OmeTV into thinking you’re a different user.
 
 Without a VPN, your original IP remains visible, keeping you blocked. Appealing bans directly with OmeTV is tricky and often unsuccessful, making a VPN the most dependable workaround. Plus, VPNs encrypt your connection, safeguarding your data from hackers or snoopers.
 
